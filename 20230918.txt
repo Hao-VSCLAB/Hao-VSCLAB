@@ -1,3 +1,8 @@
 Today is 20230918
 Second I'm going pull down to Desktop
 Third it's time to upload the third version
+-----------------------------------------------------------
+如何更新版本?
+git add <file>
+git commit -m "changewhat" 
+git push -u origin main
