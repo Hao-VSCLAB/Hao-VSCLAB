@@ -6,3 +6,8 @@ Third it's time to upload the third version
 git add <file>
 git commit -m "changewhat" 
 git push -u origin main
+
+將clone 去本地端
+git clone <URL>
+  or
+gir pull origin master
